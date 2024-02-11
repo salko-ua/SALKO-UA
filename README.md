@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm salko-ua</h1>
 <h3 align="center">A junior software developer from Ukraine</h3>
 
