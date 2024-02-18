@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salko-ua&label=Profile%20views&color=0e75b6&style=flat" alt="salko-ua" /> </p>
 
-<p align="left"> <a href="https://twitter.com/musaev16j" target="blank"><img src="https://img.shields.io/twitter/follow/musaev16j?logo=twitter&style=for-the-badge" alt="musaev16j" /></a> </p>
+<p align="left"> <a href="https://twitter.com/salko_ua" target="blank"><img src="https://img.shields.io/twitter/follow/musaev16j?logo=twitter&style=for-the-badge" alt="musaev16j" /></a> </p>
 
 - 🔭 I’m currently working on [salko-ua.site](https://github.com/salko-ua/salko-ua.site)
 
