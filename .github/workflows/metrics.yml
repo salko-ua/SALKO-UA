@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule: [{cron: "* * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -14,7 +14,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: salko-ua
+      - name: Set up Git
+        run: |
+          git config --global user.name "salko-ua"
+          git config --global user.email "chips69jamil69game@gmail.com"
+          
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
