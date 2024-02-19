@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            326 Commits
+                            327 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    16.2 MB used
+                                    17.5 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    40.2k added, 21.9k removed
+                                    15.3k added, 1.84k removed
                                 </div>
                             </section>
                             <section>
@@ -514,20 +514,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 374kb of code in 272 edited files across 169 commits over last 12 days</small>
+                <small>estimation from 375kb of code in 276 edited files across 177 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="166.7435802009676" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="166.7435802009676" y="0" width="132.34683196873837" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="299.0904121697059" y="0" width="127.56675660588017" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="426.6571687755861" y="0" width="12.852972646073688" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="439.5101414216598" y="0" width="9.621673799776703" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="449.13181522143645" y="0" width="9.319408262002232" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="458.4512234834387" y="0" width="0.8158494603647191" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="459.26707294380344" y="0" width="0.7329270561965017" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="166.03971117043145" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="166.03971117043145" y="0" width="131.7881607671239" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="297.8278719375554" y="0" width="128.97004580276436" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="426.7979177403198" y="0" width="12.798716827738756" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="439.5966345680585" y="0" width="9.581058153876443" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="449.177692721935" y="0" width="9.280068559384356" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="458.45776128131934" y="0" width="0.8124055426556339" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="459.27016682397493" y="0" width="0.7298331760250613" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -541,7 +541,7 @@
                             <small>
                                 <div>2.51k lines</div>
                                 <div>62.3 kB</div>
-                                <div>36.25%</div>
+                                <div>36.1%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -554,7 +554,7 @@
                             <small>
                                 <div>101 lines</div>
                                 <div>49.4 kB</div>
-                                <div>28.77%</div>
+                                <div>28.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -565,9 +565,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.17k lines</div>
-                                <div>47.6 kB</div>
-                                <div>27.73%</div>
+                                <div>1.19k lines</div>
+                                <div>48.4 kB</div>
+                                <div>28.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -580,7 +580,7 @@
                             <small>
                                 <div>315 lines</div>
                                 <div>4.80 kB</div>
-                                <div>2.79%</div>
+                                <div>2.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -593,7 +593,7 @@
                             <small>
                                 <div>110 lines</div>
                                 <div>3.60 kB</div>
-                                <div>2.09%</div>
+                                <div>2.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -606,7 +606,7 @@
                             <small>
                                 <div>82 lines</div>
                                 <div>3.48 kB</div>
-                                <div>2.03%</div>
+                                <div>2.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -640,20 +640,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 913kb of code in 523 edited files across 128 commits</small>
+                <small>estimation from 913kb of code in 524 edited files across 129 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.80105558221166" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="141.80105558221166" y="0" width="23.649082047526452" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="165.45013762973812" y="0" width="18.538346927952727" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="183.98848455769084" y="0" width="1.8606530467941111" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="185.84913760448495" y="0" width="1.7495391297760043" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="187.59867673426095" y="0" width="1.442460668198692" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="189.04113740245964" y="0" width="1.3773075077653476" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="190.418444910225" y="0" width="269.581555089775" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.79420544761265" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="141.79420544761265" y="0" width="23.647939606135562" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="165.4421450537482" y="0" width="18.53745137628579" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="183.97959643003398" y="0" width="1.8605631622459298" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="185.84015959227992" y="0" width="1.7494546129261404" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="187.58961420520606" y="0" width="1.4423909857150856" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="189.03200519092113" y="0" width="1.3772409727048454" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="190.40924616362597" y="0" width="269.59075383637395" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -667,7 +667,7 @@
                             <small>
                                 <div>7.12k lines</div>
                                 <div>280 kB</div>
-                                <div>30.83%</div>
+                                <div>30.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -758,7 +758,7 @@
                             <small>
                                 <div>12.3k lines</div>
                                 <div>533 kB</div>
-                                <div>58.6%</div>
+                                <div>58.61%</div>
                             </small>
                         </div>
                     </section>
@@ -914,8 +914,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                                <text x="60" y="60" dominant-baseline="central">96</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -3242,6 +3242,86 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">salko-ua/FeedBack_vvpk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#521e6bf</div>
+                                        <div class="message">Update menu.py</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">salko-ua/FeedBack_vvpk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#49bc842</div>
+                                        <div class="message">Update __init__.py</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">salko-ua/FeedBack_vvpk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4a23dbc</div>
+                                        <div class="message">Create select.py</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">salko-ua/KOTEKBOT</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ac24205</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">salko-ua/salko-ua</span>
                                     </div>
                                 </div>
@@ -3250,89 +3330,6 @@
                                     <div class="commit">
                                         <div class="sha">#bc91d4f</div>
                                         <div class="message">Update metrics.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">salko-ua/salko-ua</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5db82d5</div>
-                                        <div class="message">Update metrics.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">salko-ua/salko-ua</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#77ef480</div>
-                                        <div class="message">Update metrics.yml</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">salko-ua/KOTEKBOT</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2e07339</div>
-                                        <div class="message">refactoring black line - 100</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">salko-ua/KOTEKBOT</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1464521</div>
-                                        <div class="message">change versions
-
-change PEDBOT, sqlalchemy vesrions in poetry
-change versions in text message</div>
                                     </div>
                                 </div>
                             </section>
@@ -3486,7 +3483,7 @@ change versions in text message
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Feb 2024, 22:01:05 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Feb 2024, 22:17:51 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
