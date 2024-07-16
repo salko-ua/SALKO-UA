@@ -47,7 +47,7 @@ jobs:
           plugin_stars_limit: 2
           plugin_licenses: yes
           plugin_licenses_ratio: yes
-          plugin_followup: yes
+
           plugin_followup_sections: "repositories,user"
           plugin_followup_indepth: yes
           plugin_repositories: yes
