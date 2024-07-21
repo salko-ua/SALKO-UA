@@ -66,5 +66,5 @@ jobs:
           plugin_code_visibility: public
           plugin_code_languages: python
           plugin_introduction: yes
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: "https://salko-ua.netlify.app"
+#          plugin_pagespeed: yes
+#         plugin_pagespeed_url: "https://salko-ua.netlify.app"
