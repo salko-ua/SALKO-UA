@@ -25,10 +25,17 @@ jobs:
 
            # Options
           user: salko-ua
-          config_timezone: Europe/Warsaw
+          config_timezone: Europe/Kyiv
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # 🗃️ Base content
+          base: header, activity, repositories
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_activity: yes
+          plugin_activity_visibility: public
+
+
+          # 🈷️ Languages activity
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_other: yes
@@ -40,31 +47,24 @@ jobs:
           plugin_languages_categories: "data,markup,programming,prose"
           plugin_languages_recent_categories: "data,markup,programming,prose"
           plugin_languages_limit: 8
-          plugin_stargazers: yes
-          plugin_lines: yes
-          plugin_lines_history_limit: 0
-          plugin_stars: yes
-          plugin_stars_limit: 2
-          plugin_licenses: yes
-          plugin_licenses_ratio: yes
-          plugin_repositories: yes
-          plugin_repositories_pinned: 1
-          plugin_repositories_random: 1
-          plugin_repositories_affiliations: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: B
+
+          # 🎩 Notable contributions
           plugin_notable: yes
           plugin_notable_filter: "stars>=1000"
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_indepth: yes
           plugin_notable_types: "commit,pull_request,issue"
-          plugin_activity: yes
-          plugin_activity_visibility: public
-          plugin_traffic: yes
-          plugin_code: yes
-          plugin_code_visibility: public
-          plugin_code_languages: python
-          plugin_introduction: yes
-#          plugin_pagespeed: yes
-#         plugin_pagespeed_url: "https://salko-ua.netlify.app"
+
+          # 🕹️ Steam
+          plugin_steam: yes
+          plugin_steam_token: 6DCECD1EF2D83D378EA94A0F2461FA99
+          plugin_steam_sections: player, most-played, recently-played
+
+          # 🏆 Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          # ⏱️ Google PageSpeed
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: "https://salko-ua.de"
