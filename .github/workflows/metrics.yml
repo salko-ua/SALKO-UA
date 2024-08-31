@@ -33,6 +33,7 @@ jobs:
           plugin_traffic: yes
           plugin_activity: yes
           plugin_activity_visibility: public
+          plugin_introduction: yes
 
 
           # 🈷️ Languages activity
@@ -65,6 +66,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
+          
           # ⏱️ Google PageSpeed
           plugin_pagespeed: yes
           plugin_pagespeed_url: "https://salko-ua.de"
