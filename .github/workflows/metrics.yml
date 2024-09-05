@@ -57,10 +57,14 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_types: "commit,pull_request,issue"
 
+          # 📅 Isometric commit calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
           # 🕹️ Steam
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: "salkoua"
+          plugin_steam_user: "76561199199943546"
           plugin_steam_sections: player, most-played, recently-played
 
           # 🏆 Achievements
