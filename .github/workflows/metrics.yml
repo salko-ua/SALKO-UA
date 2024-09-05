@@ -58,9 +58,9 @@ jobs:
           plugin_notable_types: "commit,pull_request,issue"
 
           # 🕹️ Steam
-          plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_user:  ${{ secrets.STEAM_USER_ID }}
+          plugin_steam: yes
+          plugin_steam_user: "salkoua"
           plugin_steam_sections: player, most-played, recently-played
 
           # 🏆 Achievements
