@@ -151,7 +151,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    25.6k added, 10.4k removed
+                                    25.8k added, 10.9k removed
                                 </div>
                             </section>
                             <section>
@@ -622,16 +622,16 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="302.68 329"/>
+                                <text x="60" y="60" dominant-baseline="central">92</text>
                             </svg>
                             <span class="title">Accessibility</span>
                         </div>
@@ -2060,7 +2060,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.607118412046551 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.819301848049286 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2157,7 +2157,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.72m out of 234m repositories</span>
+                                    <span class="gh">ranked 2.72m out of 229m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -2358,7 +2358,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.50m out of 234m repositories</span>
+                                    <span class="gh">ranked 5.50m out of 229m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2564,7 +2564,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            38 / 58 achievements unlocked
+                                            39 / 58 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUAAwYH/8QAMhAAAgEDAwICBgsBAAAAAAAAAQIDBAURAAYSITFRYRMVIjJBcQcUJDVCVnJ0lLPR4f/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAX/xAAhEQACAQQCAgMAAAAAAAAAAAABAgMAEUFREiExYYHR8P/aAAwDAQACEQMRAD8A4rK9ut9otMktqhqpqmF5Hd5pF6iQr2U47DQvra2fl+l/kzf7qXz7m29+1k/tbR21NnVV9UVEzimos++Rln/SPDzPT56iJjSMySsR2cnZ90+zs3FBrA1TTb9gprtcYpbhbFtdEkXpRGZH+0AnAOWPQDI7eI8dEbztG3bfY3ltwiWsMqogEzMeh9roT5HT+utSLXJRQD0UKxIUbBkfnnCyNn3lUgKVPTD56ax+7KcSR1cZVYDa1QNDG3KMSSv14HuFwM8T2JOs+GVpplbmQOuvvdz+8VVIgjQjiL7oOCiN6t9t4l0pLfAUqZeOcu0hKxoPxMcgY89bq0TQWqnqKdalhPAFlqyFDj0jsFC8j34Dp0/5pLt2+2GLa1FQ19XLBUROZSYkYMr8iQQQO+DoLcd7tldPDRWmqFFQ/VmgmmaJirKWDBQuM5yM8vM6MqyTuYipCgnHXnz7vj412EKxrzBF7Cr/AKQNyMtXFTW6peOrpnnimdBxYAkDiD4YHfy+GszbCW21fmYkktTkknJPtnUNrtRJJ3DESfiaSXV7eraGw3Knp7olXNUtFxVYHTHFiT1Pz1ZGkcUaxoDe4wd31SHZnYsxGcjVf//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Wardens drool</div>
+                                                <div class="unlocked">29 Dec 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -2578,18 +2588,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAj/xAAsEAACAgAFAwMBCQAAAAAAAAABAwIEAAURITEGEkETFGEVIjJCUVJTcYGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAMEAv/EACURAAIBAwIFBQAAAAAAAAAAAAECAwARQQTwBRIhUXExYaGxwf/aAAwDAQACEQMRAD8A5yMjhgoZMbq01SqFa93mMpNb2nQ7iUonfQccA8c64xdP0FWrDbF7WOXVI+rYI/EPEB8yO3+4MV8wvZuxrqS3WL0pSZJEIgQXHiMQTyAB90bnzsMSzyNeyYz27b8U2NB6tmsl/JvYqdUiuFq93gCa29x0G5MYg66eOCdjxpgCDhl+r2suZF9pT69tU4n27VEQZHiUdfESPB4PBwLz+gqnZW6mTPL7UfWrSP6fMD8xOxwQOwPK+c/e/NEii11raoe+6QNemRBtN5faX+7A7RZ/EeCPGuuHTpPLaCaiErD2PesOU9a9lDUgNJ8EmOw/IAeTia5TfblmYKtoAMoHSUJcTidjE/BG2KVk/UuQU7MAq2VVo0lqhGcJExInI9p0HjUYi18cgUrGCQevT937YqjTMhN2piGYByZrv0HsC5SUyUEhqzKOxIA1IH9YnnWDaKctcqrDRVywLFNWnb6MANJMA8CZ4j8a4OWOq8ukm8kXVe2Y9jCIRZ6rIHftH2dB3ca67AnE6zO87Mr7bVjQTYdox4hEbCI+ANBhXD9IwfmYEDe/jNb1MwK2BvX/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Baptism by fire</div>
-                                                <div class="unlocked">25 Dec 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+36 others...</div>
+                                            <div class="description ellipsis">+37 others...</div>
                                         </div>
                                     </div>
                                 </div>
