@@ -17,7 +17,7 @@ jobs:
       - name: Set up Git
         run: |
           git config --global user.name "salko-ua"
-          git config --global user.email "chips69jamil69game@gmail.com"
+          git config --global user.email "github@salko-ua.de"
           
       - uses: lowlighter/metrics@latest
         with:
