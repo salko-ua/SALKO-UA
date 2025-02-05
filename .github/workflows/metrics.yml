@@ -31,8 +31,6 @@ jobs:
           base: header, activity, repositories
           plugin_lines: yes
           plugin_traffic: yes
-          plugin_activity: yes
-          plugin_activity_visibility: public
           plugin_introduction: yes
 
           # 🈷️ Languages activity
@@ -50,7 +48,7 @@ jobs:
 
           # 📅 Isometric commit calendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
           
           # 🕹️ Steam
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
