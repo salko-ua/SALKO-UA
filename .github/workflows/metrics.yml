@@ -49,15 +49,15 @@ jobs:
           # 📅 Isometric commit calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          
-          # 🕹️ Steam
-          # plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          # plugin_steam: yes
-          # plugin_steam_user: "76561199199943546"
-          # plugin_steam_sections: player
 
           # 🏆 Achievements
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: B
           plugin_achievements_limit: 4
+
+                    # 🕹️ Steam
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561199199943546"
+          plugin_steam_sections: player
